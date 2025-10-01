@@ -1,3 +1,6 @@
+#
+My Patched Version of Matrix-Game in which I added the missing `lib` folder from [VPT](https://github.com/openai/Video-Pre-Training/tree/main/lib) to `Matrix-Game-1/GameWorldScore/GameWorld/third_party/IDM`.
+
 <p align="center">
 <h1 align="center">Matrix-Game</h1>
 <h3 align="center">Skywork AI</h3>
