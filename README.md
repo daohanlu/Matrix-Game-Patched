@@ -1,5 +1,7 @@
-#
+# Change Log
 My Patched Version of Matrix-Game in which I added the missing `lib` folder from [VPT](https://github.com/openai/Video-Pre-Training/tree/main/lib) to `Matrix-Game-1/GameWorldScore/GameWorld/third_party/IDM`.
+Also, `Matrix-Game-1/GameWorldScore/GameWorld/third_party/IDM/lib/actions.py ` is changed from VPT to no longer use MineRL. Instead, it uses the relevant file from RL directly (Matrix-Game-1/GameWorldScore/GameWorld/third_party/IDM/lib/mc.py).
+
 
 <p align="center">
 <h1 align="center">Matrix-Game</h1>
